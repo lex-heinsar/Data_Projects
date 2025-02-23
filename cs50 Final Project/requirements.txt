@@ -1,0 +1,2 @@
+cowsay==6.1
+pytest==8.3.4
